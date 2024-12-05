@@ -1,5 +1,5 @@
 ﻿# habit-tracker
-// Este é um aplicativo simples para gerenciar e monitorar seus hábitos diários, semanais ou mensais. Ele permite adicionar novos hábitos, visualizar os hábitos já cadastrados e escolher a frequência de cada um.
+Este é um aplicativo simples para gerenciar e monitorar seus hábitos diários, semanais ou mensais. Ele permite adicionar novos hábitos, visualizar os hábitos já cadastrados e escolher a frequência de cada um.
 
 Este projeto é dividido em duas partes:
 Backend: Gerencia os dados dos hábitos.
