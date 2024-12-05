@@ -23,3 +23,19 @@ Frequência: Escolha entre "Diário", "Semanal" ou "Mensal" ao adicionar um háb
 | **7. Melhorias e Refatoração**   | Melhorias no código, aprimoramento da interface e validação de entradas.    | 07/12/2024 - 08/12/2024 |
 | **8. Finalização e Entrega**     | Revisão final, correção de erros e entrega do projeto.                     | 09/12/2024              |
 
+Desafios Superados e o Processo de Desenvolvimento
+O desenvolvimento do Habit Tracker foi um processo bem legal, mas também desafiador. Tive que passar por várias etapas e lidar com alguns problemas, mas consegui superar tudo com um pouco de paciência e boas ferramentas, como o Git.
+
+Planejamento e Definição das Funcionalidades
+O primeiro passo foi planejar o que o aplicativo deveria fazer. Foi um desafio definir o que seria realmente essencial para que o app fosse simples e útil ao mesmo tempo. Também foi uma tarefa difícil montar o cronograma de desenvolvimento, porque eu não sabia exatamente quanto tempo cada parte ia levar.
+
+Desenvolvimento do Backend
+Essa parte foi tranquila de codificar, mas o maior desafio foi garantir que o armazenamento de dados fosse simples, sem complicar demais. Eu criei uma branch só para o backend, então pude trabalhar nessa parte sem mexer no código da versão principal. Isso me ajudou a testar e organizar tudo de forma mais segura.
+
+ Desenvolvimento do Frontend
+O próximo passo foi criar a interface do usuário com Tkinter. Eu queria que fosse simples, mas com uma boa usabilidade.  Para o frontend, criei uma branch separada também. Isso me permitiu trabalhar no design sem interferir no que já estava feito no backend, mantendo as duas partes isoladas.
+
+Testes e Correção de Bugs
+Como sempre, depois que a base do app estava pronta, eu fiz testes para garantir que tudo estava funcionando. Foram os testes que mostraram alguns bugs, especialmente na validação de dados. Por exemplo, se o usuário tentasse adicionar um hábito sem nome, o app deveria avisar, mas eu não tinha tratado isso ainda. Resolvi corrigir esses detalhes, garantindo que o app funcionasse corretamente em todos os cenários.
+
+O desenvolvimento do Habit Tracker foi um processo cheio de desafios, mas também de aprendizado. Com o planejamento adequado, uma boa organização no Git e alguns ajustes ao longo do caminho, consegui transformar a ideia inicial em um app funcional. 
